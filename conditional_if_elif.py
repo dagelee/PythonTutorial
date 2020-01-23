@@ -1,4 +1,4 @@
-def main():
+def aamain():
     Age=input("enter your Age:")
     if(int(Age)>=8 and int(Age)<=10):
         print("children")
@@ -19,4 +19,4 @@ def main():
 
 
 
-if __name__ == '__main__':main()
+if __name__ == '__main__':aamain()
